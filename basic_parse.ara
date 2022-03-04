@@ -1,0 +1,4 @@
+add 5 8
+pop 7
+mov eax,#100
+halt
